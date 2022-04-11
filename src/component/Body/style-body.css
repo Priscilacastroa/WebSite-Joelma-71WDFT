@@ -1,0 +1,33 @@
+.joelma {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.joelma h2 {
+  font-size: 50px;
+  color: rgba(124, 93, 7, 0.733);
+  font-family: cursive;
+}
+.joelmaImgs {
+  display: flex;
+  flex-wrap: wrap;
+}
+.joelma-img {
+  height: 150px;
+  width: 150px;
+}
+.info {
+  margin: 20px;
+}
+.agenda {
+  margin: 20px;
+}
+
+.info li {
+  list-style-type: circle;
+}
+
+.agenda li {
+  list-style-type: circle;
+}
